@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [John Kirson](https://up.htmlacademy.ru/javascript/19/user/68387).
-* Наставник: `Неизвестно`.
+* Наставник: [Максим Огородник](https://htmlacademy.ru/profile/id143439).
 
 ---
 
